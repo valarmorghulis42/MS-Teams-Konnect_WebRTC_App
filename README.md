@@ -58,5 +58,8 @@ $ node server.js
 ```
 ### Step 3. Run
 - Open ./MS-Teams-Konnect_WebRTC_App/public/sender.html
+- Enter the username and click **Send**. A link will be generated below. Cppy the link.
+- Click on **Start Call** on the sender.html page and allow microphone and camera permissions.
+- Open the copied link in another Tab and Click on **Join Call from (Username)** button and allow microphone and camera permissions.
 
 And you are ready to go!!
