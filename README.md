@@ -15,6 +15,7 @@ This is a Fully Functional Real Time Video Calling Web Application with Chat App
 - Video Call & Present Screen : Socket.io, WebRTC, node_static
 - Styling : HTML5, CSS & jQuery
 - Server: Node.js, Express.js
+- Libraries/Dependancies : node_static, socket.io, websocket
 
 ## Run Locally
 For running the application locally, follow these simple steps!
