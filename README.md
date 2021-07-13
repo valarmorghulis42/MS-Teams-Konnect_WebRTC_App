@@ -44,11 +44,11 @@ $ npm --version
 6.1.0
 ```
 ### Step 2. Cloning the Repository
-- **Using Github **
+- Using Github
 ```
 $ git clone https://github.com/valarmorghulis42/MS-Teams-Konnect_WebRTC_App.git
 ```
-- **Drive Link : https://drive.google.com/drive/folders/1JLOAT57L0tgJg60FERiXhutiPieeHnfj?usp=sharing **
+- Drive Link : https://drive.google.com/drive/folders/1JLOAT57L0tgJg60FERiXhutiPieeHnfj?usp=sharing
 
 After cloning/extracting the files type these commands to setup the app.
 ```
