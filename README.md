@@ -12,7 +12,7 @@ This is a Fully Functional Real Time Video Calling Web Application with Chat App
 
 ## Tech Stack 💻
 
-- Video Call & Present Screen : Socket.io, WebRTC, node_static, websocket
+- Video Call : Socket.io, WebRTC, node_static, websocket
 - Styling : HTML5, CSS & jQuery
 - Server: Node.js, Express.js
 
