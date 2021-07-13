@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap" rel="stylesheet" />
+    </head>
+    <body>
+        <div>
+            <div class="box">
+                <input placeholder="Enter username..." type="text" id="username-input" /><br />
+                <button id="send" onclick="sendUsername()">Send</button><br /><br />
+                <div id="msg"></div>
+                <button id="call" onclick="startCall()">Start Call</button>
+            </div>
+            <div id="video-call-div">
+                <video muted id="local-video" autoplay></video>
+                <video id="remote-video" autoplay></video>
+                <div class="call-action-div">
+                    <button id="mute" onclick="muteVideo()">Mute Video</button>
+                    <button id="mute" onclick="muteAudio()">Mute Audio</button>
+                </div>
+            </div>
+        </div>
+
+        <script src="./sender.js"></script>
+    </body>
+</html>
